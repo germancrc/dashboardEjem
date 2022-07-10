@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "price": 1599.99,
+      "description": "HP Laptop",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "monitor",
+      "price": 199.99,
+      "description": "Monitor LCD LG",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "mouse",
+      "price": 20,
+      "description": "Razer Gaming Mouse",
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "name": "keyboard",
+      "price": 1399.99,
+      "description": "gaming keyboard",
+      "categoryId": 2
+    },
+    {
+      "name": "Laptop Acer",
+      "price": 1399.99,
+      "description": "NO es gaming",
+      "categoryId": 1,
+      "id": 5
+    },
+    {
+      "name": "Saitek Cyborg Keyboard",
+      "price": 64.99,
+      "description": "Red backlight",
+      "categoryId": 2,
+      "id": 6
+    },
+    {
+      "name": "Cooler Master Power Supply",
+      "price": 105,
+      "description": "Fuente potente",
+      "categoryId": 2,
+      "id": 7
+    },
+    {
+      "name": "Asus X53S",
+      "price": 850,
+      "description": "Laptop Asus",
+      "categoryId": 1,
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "computers",
+      "description": "computers, laptops, monitors, etc"
+    },
+    {
+      "id": "2",
+      "name": "gaming",
+      "description": "mouse, monitors, keyboards etc"
+    }
+  ]
+}

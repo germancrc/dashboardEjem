@@ -1,0 +1,12 @@
+.tableView{
+  align-items: center;
+  padding: 2rem;
+}
+
+.tableRow{
+  align-items: center;
+}
+
+th{
+  padding: 2rem;
+}
