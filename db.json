@@ -65,8 +65,13 @@
     },
     {
       "id": "2",
-      "name": "gaming",
+      "name": "PC gaming",
       "description": "mouse, monitors, keyboards etc"
+    },
+    {
+      "name": "Gaming consoles",
+      "description": "Playstation, Xbox",
+      "id": "10hPcIO"
     }
   ]
 }

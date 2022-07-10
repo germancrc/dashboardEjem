@@ -1,5 +1,5 @@
 const getCategorias = async () => {
-  await fetch('https://my-json-server.typicode.com/germancrc/fake-server/categories')
+  await fetch('https://my-json-server.typicode.com/germancrc/dashboardEjem/categories')
     .then((response) => {
       return response.json();
     })
@@ -35,7 +35,7 @@ getCategorias();
 
  // PRODUCTOS
  const getProductos = async () => {
-    await fetch('https://my-json-server.typicode.com/germancrc/fake-server/products')
+    await fetch('https://my-json-server.typicode.com/germancrc/dashboardEjem/products')
       .then((response) => {
         return response.json();
       })
